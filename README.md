@@ -26,7 +26,7 @@ After=multi-user.target
 [Service]
 Type=idle
 ExecStart=hypercorn main:app --access-logfile=access.log --error-logfile=errors.log
-WorkingDirectory=/home/schtinguerch/Documents/gpio_test/CAMERA_BLYAT
+WorkingDirectory=/home/schtinguerch/Documents/gpio_test/CAMERA
 User=root
 
 [Install]
