@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpyCam</string>
+    <string name="title_controller">Controller</string>
+    <string name="title_video">Video</string>
+    <string name="center_button_center">C</string>
+    <string name="left_button_left">L</string>
+    <string name="right_button_right">R</string>
+    <string name="targetUrl">http://10.0.0.6:8000/</string>
+    <string name="photo_button">Photo</string>
+</resources>
